@@ -1,0 +1,147 @@
+@media (max-width:1000px){
+  header {
+    background-position: center;
+    height: 40vh;
+}
+header div{
+    height:50vh ;
+}
+header h1{
+    font-size: 10vw;
+}
+#ch{
+  width: 90%;
+  font-size: 1000%;
+  height: auto;
+  height: 800%;
+  }
+#ch h2{
+    font-size: 150vw;
+}
+#ch p{
+  width: 90%;
+  font-size: 100em; 
+  width: 120%;
+}
+  #Japan{
+   flex-direction: column;
+  }
+  #Japan img {
+    width: 100%;
+    height: 20%;
+  }
+  #Japan div {
+    width: 100%;
+    background-color: rgb(220, 124, 237);
+    padding: 15% 5%;
+    box-sizing: border-box;
+  }
+  #Japan h2 {
+    text-align: center;
+    font-size: 5vw;
+  }
+  #gallery{
+    background-position: center;
+    height: 30vh;
+    flex-direction: column;
+  }
+  #Mesta p{
+    text-align: center;
+    font-family: ofont;
+    font-size: 3vw;
+  }
+  #pics img{
+    width: 20%;
+  }
+  #egypt{
+    flex-direction: column;
+    height: 55%;
+   }
+   #Egypt img{
+    width: 50%;
+   }
+   #eg{
+    width: 40%;
+    height: 36vh;
+    flex-direction: center;
+   }
+   #eg img{
+    width: 150%;
+    height: 36vh;
+   }
+   #right{
+    width: 40%;
+    padding: 4% 4%;
+    height: 25vh;
+   }
+   #info{
+    width: 90%;
+    height: 50vh;
+    background-position: center;
+   }
+   #right h2{
+    text-align: center;
+    font-family: ofont;
+    font-size: 3vw;
+   }
+   #right p{
+    text-align: center;
+    font-family: ofontru;
+    font-size: 2vw;
+   }
+   #Csilla{
+    background-image: url(img/планета.jpg);
+    background-size: cover;
+    padding: 50px;
+    display: flex;
+    height: 20vh;
+ }
+ #Csilla2{
+  text-align: center;
+  font-family: ofontru;
+  font-size: 2vw;
+  margin-left: 40%;
+ }
+ #Csilla1{
+  text-align: center;
+  font-family: ofontru;
+  font-size: 2vw;
+  margin-left: 10%;
+ }
+ #galaxy{
+  background-image: url(img/галакти.jpg);
+  background-size: cover;
+  padding: 50px;
+  display: flex;
+  height: 20vh;
+}
+#Centaurus2{
+text-align: center;
+font-family: ofontru;
+font-size: 2vw;
+margin-left: 2%;
+}
+#Centaurus1{
+font-family: ofontru;
+font-size: 5vw;
+margin-left: 1%;
+}
+#Centaurus1 h2{
+  font-family: ofont;
+    font-size: 4vw;
+    line-height: 4%;
+}
+nav{
+  flex-direction: column;
+}
+nav a{
+  width: 100%;
+  border: none;
+  border-bottom: 2px solid #50536c;
+  font-size: 6vw;
+}
+nav a:hover{
+  background-color: white;
+  color: #506b6c;
+}
+ }
